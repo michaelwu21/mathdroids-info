@@ -1,5 +1,6 @@
-# mathdroids-info
-infomation
+# mathdroids-info (WIP)
+
+Infomation about FLL, including Roles and Core Values
 
 ##Roles
 
@@ -29,5 +30,15 @@ infomation
 1 Responsible for collecting team information, project experience and references
 
 2 Work with CBO, CCO, talk to team members, and collect and organize Robot design documents
+
+##Core Values
+
+*We are a team
+
+*We do the work to find solutions
+
+*We learn together
+
+
 
 
